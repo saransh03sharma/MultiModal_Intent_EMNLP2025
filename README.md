@@ -113,5 +113,13 @@ python evaluate.py --model your_model --dataset Dataset/debiased_variant
 If you use this repository, please cite our EMNLP 2025 paper:
 
 ```
-
+@misc{mullick2025texttakesoverstudy,
+      title={Text Takes Over: A Study of Modality Bias in Multimodal Intent Detection}, 
+      author={Ankan Mullick and Saransh Sharma and Abhik Jana and Pawan Goyal},
+      year={2025},
+      eprint={2508.16122},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.16122}, 
+}
 ```
