@@ -1,6 +1,3 @@
-Here’s an improved and more polished version of your README with clearer structure, corrected typos, and expanded descriptions to make it easier for others to understand and use the repo:
-
----
 
 # MultiModal\_Intent\_EMNLP2025
 
