@@ -61,7 +61,7 @@ The `Dataset/` folder provides:
 * **Original**: Original dataset files provided by the authors of MIntRec-1 and 2.0. (Kindly follow their GitHub repositories for downloading raw `.mp4` video files and audio feature `.pkl` files.)
 * **Debiased**: Debiased variant of the original datasets. This is obtained by carefully filtering as part of Phase-3 of our study. We encourage all future researchers to also test their proposed solutions on debiased variants to ensure their models perform well and are not simply text-based models in disguise.
 * **Phase-2-Automated\_Annotation**: We provide the raw CSVs of the 7 variants of masking used during Phase-2 of our study. Each CSV contains labels predicted by the corresponding masking variant (e.g., `sdif_bert_text.csv` means that apart from text, both video and audio are masked), along with the output probability corresponding to the ground label.
-
+* **Human-Annotation**: We also provide human annotated dataset files for future exploration in training of routers.
 ---
 
 ## Directory Structure
