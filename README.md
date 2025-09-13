@@ -10,10 +10,10 @@
 This project investigates **intent recognition using multimodal data** (text, audio, and video) and presents a systematic study of **modality bias** in existing datasets and models. The repository contains datasets, experimental pipelines, and scripts required to **reproduce, analyze, and extend** the findings of the paper.
 
 **Authors:**  
-- **Ankan Mullick** — Computer Science Engineering, IIT Kharagpur, India  
+- **Ankan Mullick** — Department of Computer Science and Engineering, IIT Kharagpur, India  
 - **Saransh Sharma** — Adobe Research, India  
-- **Abhik Jana** — Computer Science Engineering, IIT Bhubaneswar, India  
-- **Pawan Goyal** — Computer Science Engineering, IIT Kharagpur, India  
+- **Abhik Jana** — Department of Computer Science and Engineering, IIT Bhubaneswar, India  
+- **Pawan Goyal** — Department of Computer Science and Engineering, IIT Kharagpur, India  
 
 **Contact Emails:**  
 - ankanm@kgpian.iitkgp.ac.in  
